@@ -53,7 +53,7 @@ Graphics card: Nvidia GTX 1060 or above (Not required if you can use the AWS GPU
 <b>
 Software Requirements</b>
 
-<ul<li>
+<ul><li>
 OS: Ubuntu 14.04; Mac OSX 10.12
 </li><li>
 Browser: Google Chrome / FireFox
