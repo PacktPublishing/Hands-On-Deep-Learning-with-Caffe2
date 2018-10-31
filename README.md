@@ -37,6 +37,7 @@ Storage: 35 GB available space
 </li></ul><b>
 Recommended Hardware Requirements</b><br>
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
+
 <ul><li>
 OS: Ubuntu 16.04 or equivalent; alternative, Mac OSX 10.13 or equivalent
 </li><li>
