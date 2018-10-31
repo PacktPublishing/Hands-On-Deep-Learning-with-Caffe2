@@ -56,7 +56,9 @@ Browser: Google Chrome / FireFox
 Code Editor: Atom: https://atom.io/
 </li><li>
 Others: MiniConda 2/3: https://conda.io/miniconda.html
-</li></ul>
+</li></ul><br>
+
+
 ## Related Products
 * [Introduction to Deep Learning with Caffe2 [Video]](https://www.packtpub.com/big-data-and-business-intelligence/introduction-deep-learning-caffe2-video?utm_source=github&utm_medium=repository&utm_campaign=9781787121225)
 
