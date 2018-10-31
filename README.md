@@ -17,46 +17,46 @@ All classes in this course are hands-on; you will get sufficient background abou
 
 ## Instructions and Navigation
 ### Assumed Knowledge
-To fully benefit from the coverage included in this course, you will need:<br/>
+
 This course is intended for machine learning enthusiasts keen to learn the exciting new Caffe2 framework for training deep learning models. No prior knowledge of deep learning is expected, but some knowledge of linear algebra and machine learning is required.
 ### Technical Requirements
-This course has the following software requirements:<br/>
-Setup and Installation
+This course has the following requirements:<br/>
+<b>Setup and Installation</b><br>
 This will vary on a product-by-product basis, but should be a standard PI element for ILT products. This example is relatively basic.
-
-Minimum Hardware Requirements
+<br>
+<b>Minimum Hardware Requirements</b><br>
 For successful completion of this course, students will require the computer systems with at least the following:
-
+<ul><li>
 OS: Ubuntu 14.04 or above; alternative, Mac OSX 10.12 or above
-
+  </li><li>
 Processor: Intel Core i5 or equivalent
-
+</li><li>
 Memory: 4GB RAM
-
+</li><li>
 Storage: 35 GB available space
-
-Recommended Hardware Requirements
+</li></ul><b>
+Recommended Hardware Requirements</b><br>
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
-
+<ul><li>
 OS: Ubuntu 16.04 or equivalent; alternative, Mac OSX 10.13 or equivalent
-
+</li><li>
 Processor: Intel Core i5 or equivalent
-
+</li><li>
 Memory: 8GB RAM
-
+</li><li>
 Storage: 35 GB available space
-
+</li><li>
 Graphics card: Nvidia GTX 1060 or above (Not required if you can use the AWS GPU instance g3, p2, p3, etc. Google Cloud GPU computing engine instance)
-
-Software Requirements
+</li></ul><b>
+Software Requirements</b><ul<li>
 OS: Ubuntu 14.04; Mac OSX 10.12
-
+</li><li>
 Browser: Google Chrome / FireFox
-
+</li><li>
 Code Editor: Atom: https://atom.io/
-
+</li><li>
 Others: MiniConda 2/3: https://conda.io/miniconda.html
-
+</li></ul>
 ## Related Products
 * [Introduction to Deep Learning with Caffe2 [Video]](https://www.packtpub.com/big-data-and-business-intelligence/introduction-deep-learning-caffe2-video?utm_source=github&utm_medium=repository&utm_campaign=9781787121225)
 
