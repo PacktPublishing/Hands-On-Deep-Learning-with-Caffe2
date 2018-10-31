@@ -47,8 +47,12 @@ Memory: 8GB RAM
 Storage: 35 GB available space
 </li><li>
 Graphics card: Nvidia GTX 1060 or above (Not required if you can use the AWS GPU instance g3, p2, p3, etc. Google Cloud GPU computing engine instance)
-</li></ul><b>
-Software Requirements</b><ul<li>
+</li></ul>
+<br>
+<b>
+Software Requirements</b>
+
+<ul<li>
 OS: Ubuntu 14.04; Mac OSX 10.12
 </li><li>
 Browser: Google Chrome / FireFox
